@@ -26,5 +26,5 @@ Project\
  │ │      └── glad\
  │ │          └── glad.h\
    └──lib\
-        └──only files: .lib (Windows)\
+ &nbsp;└──only files: .lib (Windows)\
 # C'est fini!
