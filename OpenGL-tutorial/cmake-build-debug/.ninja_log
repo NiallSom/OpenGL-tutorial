@@ -1,0 +1,8 @@
+# ninja log v5
+8	1894	7373057456028782	CMakeFiles/Graphics.dir/main.cpp.obj	bbfa748b191f7e36
+1895	2176	7373057458360702	Graphics.exe	5d9ac4e2f63d918a
+69	1044	7373385030424453	build.ninja	b9f659627e21e4c9
+41	1234	7371496371490443	CMakeFiles/Graphics.dir/glad.c.obj	fdabd2563906755a
+13	858	7373385081764878	CMakeFiles/Graphics.dir/main.cpp.obj	903bb64488ee16c0
+32	4051	7373385113625297	CMakeFiles/Graphics.dir/glad.c.obj	c865f142a638583d
+4052	4385	7373385116959623	Graphics.exe	5d9ac4e2f63d918a
