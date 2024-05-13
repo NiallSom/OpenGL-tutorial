@@ -22,7 +22,7 @@
 Project\
  │ │ └── include\
  │ │      ├── KHR\
- │ │      │&nbsp;&nbsp;&nbsp;&nbsp;└── khrplatform.h\
+ │ │      │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── khrplatform.h\
  │ │      └── glad\
  │ │          └── glad.h\
 &nbsp;&nbsp; └──lib\
