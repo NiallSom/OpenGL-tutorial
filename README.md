@@ -19,12 +19,12 @@
   - Then copy over the `.lib` files into your compilers `lib` folder.
 #### Structure
 
-Project
- │ │ └── include
- │ │      ├── KHR
- │ │      │   └── khrplatform.h
- │ │      └── glad
- │ │          └── glad.h
-   └──lib
-        └──<u>only files:</u> .lib (Windows)
+Project\
+ │ │ └── include\
+ │ │      ├── KHR\
+ │ │      │   └── khrplatform.h\
+ │ │      └── glad\
+ │ │          └── glad.h\
+   └──lib\
+        └──only files: .lib (Windows)\
 # C'est fini!
