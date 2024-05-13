@@ -24,7 +24,7 @@ Project\
  │ │      ├── KHR\
  │ │      │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── khrplatform.h\
  │ │      └── glad\
- │ │          └── glad.h\
+ │ │          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── glad.h\
 &nbsp;&nbsp; └──lib\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──only files: .lib (Windows)\
 # C'est fini!
