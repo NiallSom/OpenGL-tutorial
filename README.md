@@ -25,6 +25,6 @@ Project\
  │ │      │   └── khrplatform.h\
  │ │      └── glad\
  │ │          └── glad.h\
-&nbsp;&nbsp;&nbsp; └──lib\
+&nbsp;&nbsp; └──lib\
  &nbsp;└──only files: .lib (Windows)\
 # C'est fini!
