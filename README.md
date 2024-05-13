@@ -17,5 +17,14 @@
   - Now unzip this folder.
   - Navigate to `liv-vc2022` as its the most recent version and copy the `glfw3.dll` file into your compilers `bin` folder.
   - Then copy over the `.lib` files into your compilers `lib` folder.
+#### Structure
 
+Project
+ │ │ └── include
+ │ │      ├── KHR
+ │ │      │   └── khrplatform.h
+ │ │      └── glad
+ │ │          └── glad.h
+   └──lib
+        └──<u>only files:</u> .lib (Windows)
 # C'est fini!
