@@ -12,7 +12,7 @@
    - Now finally, add `glad.c`to your projects source files with your `main.cpp` file.
 
 
-### Now download GLFW here: https://www.glfw.org/download  
+#### Now download GLFW here: https://www.glfw.org/download  
   - Under `Windows pre-compiled binaries` select your version to download in my case its the `64-bit` version.
   - Now unzip this folder.
   - Navigate to `liv-vc2022` as its the most recent version and copy the `glfw3.dll` file into your compilers `bin` folder.
